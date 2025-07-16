@@ -1,6 +1,9 @@
 # github References
-[1](https://github.com/zhanhuijing/zhanhuijing.github.io)
-[2](https://github.com/cihangxie/cihangxie.github.io)
+
+[Ref1](https://github.com/cihangxie/cihangxie.github.io)
+
+[Ref2](https://github.com/zhanhuijing/zhanhuijing.github.io)
+
 
 # Beautiful Jekyll
 
