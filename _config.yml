@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Zhu Ming
+title: Ming Zhu
 
 # Short description of your site
 description: Personal Homepage
@@ -40,7 +40,7 @@ avatar: "/img/MingZhu.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Zhu Ming
+  name: Ming Zhu
   github: zhumingpassional    # eg. daattali
 
 # Select which links to show in the footer
