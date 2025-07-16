@@ -1,3 +1,7 @@
+# github References
+[1](https://github.com/zhanhuijing/zhanhuijing.github.io)
+[2](https://github.com/cihangxie/cihangxie.github.io)
+
 # Beautiful Jekyll
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/daattali/20)
