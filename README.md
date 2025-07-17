@@ -1,12 +1,14 @@
 # github References
 
+[Ref](https://github.com/bairdzhang/bairdzhang_old.github.io)
+
 [Ref](https://github.com/yuyinzhou/yuyinzhou.github.io)
 
 [Ref](https://github.com/academicpages/academicpages.github.io)
 
-[Ref1](https://github.com/cihangxie/cihangxie.github.io)
+[Ref](https://github.com/cihangxie/cihangxie.github.io)
 
-[Ref2](https://github.com/zhanhuijing/zhanhuijing.github.io)
+[Ref](https://github.com/zhanhuijing/zhanhuijing.github.io)
 
 
 # Beautiful Jekyll
