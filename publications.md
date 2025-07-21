@@ -12,9 +12,9 @@ title: Publications
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <><strong> Dynamic Datasets and Market Environments for Financial Reinforcement Learning</strong><br /></>
-           J. Liu, X.-Y., Xia, Z., Yang, H., Gao, J., Zha, D., Zhu, M., ... & Guo<br />
-          Springer Nature, 2024<br />
+          <><strong> Reinforcement Learning</strong><br /></>
+           Zhu, M.<br />
+          Nature, 2024<br />
        </p>
     </div>
 </div> 
